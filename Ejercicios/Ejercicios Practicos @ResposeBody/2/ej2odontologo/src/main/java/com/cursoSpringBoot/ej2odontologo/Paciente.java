@@ -1,10 +1,13 @@
 package com.cursoSpringBoot.ej2odontologo;
 
 
+import lombok.Getter;
+import lombok.Setter;
 import org.springframework.cglib.core.Local;
 
 import java.time.LocalDate;
 
+@Getter @Setter
 public class Paciente {
     private int id;
     private int dni;
@@ -23,7 +26,7 @@ public class Paciente {
     public Paciente() {
     }
 
-    public int getId() {
+    /*public int getId() {
         return id;
     }
 
@@ -61,5 +64,5 @@ public class Paciente {
 
     public void setFechaNacimiento(LocalDate fechaNacimiento) {
         this.fechaNacimiento = fechaNacimiento;
-    }
+    }*/
 }

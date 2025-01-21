@@ -1,0 +1,2 @@
+Nota:
+- En Postman, a la hora de crear mediante solicitud post una persona, no agregar "id" en el JSON (Lo genera automaticamente JPA por como está configurado) de otra manera, salta error al guardar el objeto como entidad en la bdd.

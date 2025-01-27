@@ -27,7 +27,7 @@ public class Persona {
         this.apellido = apellido;
         this.edad = edad;
     }
-
+/*
     public Long getId() {
         return id;
     }
@@ -58,5 +58,5 @@ public class Persona {
 
     public void setEdad(int edad) {
         this.edad = edad;
-    }
+    }*/
 }

@@ -1,0 +1,29 @@
+{
+    "fecha_venta": "2025-01-20",
+    "total": 2200.0,
+    "listaProductos": [
+      { "codigo_producto": 4},
+      { "codigo_producto": 3}
+    ],
+    "unCliente": { "id_cliente": 2}
+}
+
+	
+{
+    "fecha_venta": "2025-01-21",
+    "total": 700.0,
+    "listaProductos": [
+      { "codigo_producto": 2}
+    ],
+    "unCliente": { "id_cliente": 2}
+}
+
+{
+    "fecha_venta": "2025-01-22",
+    "total": 2400.0,
+    "listaProductos": [
+      { "codigo_producto": 3},
+      { "codigo_producto": 2}
+    ],
+    "unCliente": { "id_cliente": 2}
+}
